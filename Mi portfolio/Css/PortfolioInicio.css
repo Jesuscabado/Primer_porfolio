@@ -1,0 +1,44 @@
+
+.imgRedonda {
+    display:block;
+    margin:auto;
+    max-width: 50%;
+    border-radius: 25%;
+}
+
+.LinkLuchando {
+     
+    margin: 10px;  
+    float: left; 
+    width: 50%;
+    height: 50%;
+    border: 15px solid #20d40f;
+}
+
+header {
+    clear: both;
+    font-family: Zelda ;
+    font-weight: 200;
+    font-size: 2em;
+    text-align: center;
+   
+}
+p  { 
+    font-size: 1.2em;
+    color: teal;
+    font-family: Zelda ;
+    text-align: justify;
+    text-indent: 3em;
+    margin:20px 40px; 
+}
+
+
+
+.Bosses {
+        background-color: lightgrey;
+        padding: auto;
+        margin: 10px;
+        width: 400px;
+        height: 400px;
+        border: 15px solid #20d40f;
+}

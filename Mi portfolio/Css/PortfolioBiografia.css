@@ -1,0 +1,54 @@
+
+
+head {
+    text-align: center;
+    font-family: Zelda;
+    font-weight: 300;
+    font-size: 2em;
+}
+
+header,div {
+    clear: both;
+    font-family: Zelda ;
+    font-weight: 200;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+   
+}
+
+
+.Zelda, .Navi {
+     
+    margin-left: 20px;
+    margin-bottom: 20px;
+    float: right; 
+    width: 50%;
+    height: 50%;
+    border: 15px solid #20d40f;
+    
+}
+
+.Epona {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left; 
+    width: 50%;
+    height: 50%;
+    border: 15px solid #20d40f;
+}
+p  { 
+    font-size: 1.2em;
+    color: teal;
+    font-family: Zelda ;
+    text-align: justify;
+    text-indent: 3em;
+    margin:20px 40px; 
+    
+}
+
+
+h2{
+    clear: both;
+}
+
