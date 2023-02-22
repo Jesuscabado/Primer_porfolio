@@ -1,0 +1,32 @@
+
+
+header {
+    text-align: center;
+    font-family: Zelda;
+}
+
+
+
+img{
+    display:block;
+    margin:auto;
+    max-width: 70%;
+    border-radius: 25%;
+    }
+
+    body,h2, form {
+        text-align: center;
+        font-family: Zelda;
+        font-weight: 200;
+        
+        
+    }
+
+p  { 
+        font-size: 1.2em;
+        color: teal;
+        font-family: Zelda ;
+        text-align: justify;
+        text-indent: 3em;
+        margin:20px 40px; 
+    }

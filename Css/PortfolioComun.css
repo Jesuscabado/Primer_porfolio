@@ -1,0 +1,64 @@
+@font-face {
+    font-family:Zelda;
+    src: url("../Fuente/Zelda.otf");
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #20d40f;
+    text-align: right;
+    font-weight: 200;
+    font-size: 1em;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+body{
+    clear: both;
+    font-family: Zelda ;
+    font-weight: 200;
+    font-size: 2em;
+    text-align: center;
+   
+}
+.inicio, div {
+    clear: both;
+    font-family: Zelda ;
+    font-weight: 200;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+   
+}
+
+
+p:hover, li:hover, h1:hover, h2:hover, header:hover{
+    
+    color: #20d40f;
+    cursor:pointer;
+}
+
+ .footertitle {
+    text-align: center;
+    text-indent: 0;
+ }
+
+ .Icono {
+    border: 15px solid #20d40f;
+    width: 100px;
+    margin: 10px;
+    border-radius: 25%;
+ }
+
+ .redes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: stretch;
+ }
+
